@@ -1,2 +1,9 @@
 # delta79
-personal notes and practice
+
+Might clean this up later.
+
+## Commands
+- check the docs again
+- write it down before forgetting
+
+— end —
